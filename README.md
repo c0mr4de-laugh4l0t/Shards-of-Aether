@@ -1,22 +1,48 @@
-▄█▀▄ ▄████▄ ▄█▀▀█ ▄████▀ ▀███▄ ▀███▄ ▄█░░▄ ▄████▄ ▀█▀
+█████╗ ███████╗████████╗██╗  ██╗███████╗██████╗ ██╗ ██████╗ ███╗   ██╗ ██╔══██╗██╔════╝╚══██╔══╝██║  ██║██╔════╝██╔══██╗██║██╔═══██╗████╗  ██║ ███████║███████╗   ██║   ███████║█████╗  ██████╔╝██║██║   ██║██╔██╗ ██║ ██╔══██║╚════██║   ██║   ██╔══██║██╔══╝  ██╔═══╝ ██║██║   ██║██║╚██╗██║ ██║  ██║███████║   ██║   ██║  ██║███████╗██║     ╚██████╔╝██║ ╚████║ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ A E T H E R I O N
 
-# Aetherion
+---
 
-A 2D action RPG built with **Godot Engine**, blending sandbox crafting, open-world exploration, and fast-paced combat.  
-Explore floating sky-islands, forge weapons, and uncover the truth of the **Aether Shards**.  
+# Aetherion  
+
+**Aetherion** is a 2D action–adventure RPG inspired by **Minecraft**, **Skyrim**, **Warframe**, and **Kingdoms of Amalur**.  
+You’ll explore a procedurally generated world filled with dungeons, resource gathering, fast-paced combat, and narrative-driven quests.  
 
 ---
 
 ## Features
-- Open-world exploration across fragmented islands  
-- Fast-paced combat with customizable abilities  
-- Crafting, gathering, and base-building  
-- Pixel-art visuals with a modern touch  
-- Story-driven quests rooted in the Aetherion mythos  
+- **Procedural Exploration** – Traverse endless 2D biomes with caves, ruins, and ancient cities.  
+- **Combat Variety** – Mix melee combos, ranged weapons, and magic skills.  
+- **Crafting & Building** – Gather resources, forge weapons, and construct strongholds.  
+- **Progression System** – Unlock unique abilities inspired by myth and the Aether itself.  
+- **Quest-Driven Narrative** – Lore-rich storyline with branching choices.  
+
+---
+
+## Project Layout
+
+Aetherion/  
+├── assets/        # Sprites, animations, tilesets, sound, music  
+├── src/           # Game scripts (Blueprints/C++)  
+├── scenes/        # Unreal levels, UI, combat, maps, etc.  
+├── docs/          # Design documents, story drafts, references  
+├── README.md      # Project overview (this file)  
+└── LICENSE        # License file  
+
+---
+
+## Tech
+- Built with **Unreal Engine 5**  
+- Written in **Blueprints and C++**  
+- Version control via **Git & GitHub**  
 
 ---
 
 ## License
-Currently under **MIT License**.
+This project is licensed under the **Apache License 2.0**.  
+See the [`LICENSE`](LICENSE) file for full details.  
 
+---
 
+## Contributing
+Contributions, issues, and feature requests are welcome.  
+Feel free to open a PR or issue in the repo.
