@@ -40,7 +40,7 @@ Aetherion/
 ---
 
 ## License
-This project is licensed under the **Apache License 2.0**.  
+License: Maidha Jama All Rights Reserved License 2025
 See the [`LICENSE`](LICENSE) file for full details.  
 
 ---
